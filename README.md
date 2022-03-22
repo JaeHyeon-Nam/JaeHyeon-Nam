@@ -1,4 +1,17 @@
 ### Hi there 👋
+#### It's JaeHyeon's GitHub
+---
+📖 Study about 📖
+
+<img src="https://img.shields.io/badge/GitHub-000010?style=flat-square&logo=github&logoColor=181717"/> <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-000000?style=flat-square&logo=Spring&logoColor=6DB33F"/>
+
+---
+
+👉Project's
+
+#### ChungBuk Univ / 2022_01~02 Immersion Edu Project
+#### ChungBuk Univ / Project of Graduation 
+
 
 <!--
 **JaeHyeon-Nam/JaeHyeon-Nam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
