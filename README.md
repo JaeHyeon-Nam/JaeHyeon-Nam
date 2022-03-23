@@ -9,8 +9,8 @@
 
 👉Project's
 
-#### ChungBuk Univ / 2022_01~02 Immersion Edu Project (in coffee-been-project org) - not finished
-#### ChungBuk Univ / Project of Graduation 
+#### ChungBuk Univ / 2022_01~02 Immersion Edu Project (in coffee-been-project org) - incomplete
+#### ChungBuk Univ / Project of Graduation (in 2022-cbnu-graduation-project org) - ing
 
 
 <!--
